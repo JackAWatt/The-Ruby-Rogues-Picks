@@ -1,6 +1,17 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
 
+256
+Udi Dahan: The Fallacy Of ReUse (David)
+Dan Luu: Normalization of deviance in software: how broken practices become standard (David)
+A Mind of Its Own: How Your Brain Distorts and Deceives by Cordelia Fine (Avdi)
+HolloLens Demo (Chuck)
+Build a Raspberry Pi-Powered DIY Amazon Echo (Chuck)
+How Buildings Learn: What Happens After They're Built by Stewart Brand (Michael)
+How Learning Works: Seven Research-Based Principles for Smart Teaching (Michael)
+Writing Excuses (Michael)
+
+
 ##RR Reading Code and the Architecture of Open Source
 published: 04-20-2016
 - [Udi Dahan: The Fallacy Of ReUse](http://udidahan.com/2009/06/07/the-fallacy-of-reuse/)
