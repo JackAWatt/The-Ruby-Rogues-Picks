@@ -1,5 +1,48 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
+283
+Angular for Rails Developers by Jason Swett (Jerome)
+Vets Who Code (Jason)
+The Rise of Theodore Roosevelt by Edmund Morris (Jason)
+Your Money or Your Life by Vicki Robin (Jason)
+Going outside (Jason)
+Gitlab (Charles)
+Devchat Conferences (Charles)
+The 12 Week Year and spreadsheet (Charles)
+Devchat hangout/webinar (Charles)
+
+
+
+282
+Tour of Heroes Tutorial (Jerome)
+General Assembly (Jerome)
+DreamForce (Jerome)
+Adventures in Angular Podcast (Charles and Jason)
+Angular Remote Conf videos (Charles)
+NgBook (Jason)
+How to Win Friends and Influence People by Dale Carnegie (Jason)
+The 7 Habits of Highly Successful People by Stephen Covey (Jason)
+
+281
+The Fifth Season and The Obelisk Gate by N.K. Jemisin (Noel)
+Flash Forward podcast by Rose Eveleth (Noel)
+Police officers (Charles)
+Webinar Jam (Charles)
+
+279
+Scala Parser Combinators (Jessica)
+Boil the Frog (Coraline)
+Apple picking (Saron)
+Markings notebook (Saron)
+RubyConf trailer (Saron)
+Jerome’s episode on CodeNewbie (Saron)
+Hot sauce recipe: One tablespoon of Cayenne pepper, one tablespoon of ranch dressing, and one tablespoon of sugar (David)
+Balanced Rebellion (Charles)
+Ruby Remote Conf (Charles)
+Tech Inclusion Conference in San Francisco (Jerome)
+SprezzaBox (Jerome)
+NootroBox and NootroBox Sprint (Jerome)
+
 278
 99 Bottles by Sandi Metz (David)
 Vivaldi Browser (Saron)
