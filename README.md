@@ -1,5 +1,230 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
+278
+99 Bottles by Sandi Metz (David)
+Vivaldi Browser (Saron)
+Magnetic Sticky Notes (Saron)
+Oregon Shakespeare Festival (Sam)
+Ruby Remote Conf Recordings (Charles)
+Rails Remote Conf (Charles)
+Webinars (Charles)
+Books by Howard Zinn (Corina)
+On Food and Cooking by Harold McGee
+
+277
+Going camping in your front yard (Jessica)
+California Academy of Sciences in San Francisco (Sam)
+Exploratorium in San Francisco (Sam)
+Shoe Dog by Phil Knight (Saron)
+Espresso Pillows (Saron)
+“It’s Darkest Before Dawn” DjangoCon 2016 talk by Timothy Allen (Saron)
+Ruby Book Club Podcast (Saron)
+
+
+
+276
+Mandy Moore (Sam)
+Seven Wonders of a Once and Future World by Caroline Yoachim (Jessica)
+Foreign exchange students (Charles)
+Octavia Butler (Kenzi)
+Black Girls Code  (Kenzi)
+
+275
+Sandi Metz “The Wrong Abstraction” blog post (Sam)
+Why Are Computers podcast by Tom Stewart (Sam)
+Netstat (Jess)
+Wood Badge (Charles)
+Remember the Titans (Charles)
+Rick Sheridan’s Agile India talk (James)
+Liftoff by Diana Larsen and Ainsley Nies (James)
+
+274
+Negotiating Your Salary: How To Make $1000 a Minute by Jack Chapman (Dave)
+Jack Chapman’s salary negotiation video series: (Dave)
+Part 1  Part 2  Part 3  Part 4   Part 5
+Hunter x Hunter (Dave)
+Negotiate with Chad (Jessica)
+Pokemon Go (Jessica)
+Wood Badge (Charles)
+Boy Scouts of America (Charles)
+Tifie Scout Camp (Charles)
+Penn & Teller: Fool Us Madhi Gilbert (Josh)
+Seveneves by Neal Stephens (Josh)
+Mystery Show podcast, “Case #3 Belt Buckle” (Josh)
+
+273
+RODE PSA1 Swivel Mount Studio Microphone Boom Arm (Sam)
+Design Thinking (Aurynn)
+
+272
+Transistor (Amir)
+Hoplite (Amir)
+Alto's Adventure (Amir)
+Shadowrun: Dragonfall (Sam)
+Minecraft: Story Mode (David)
+Sriracha and Egg in Ramen (Chuck)
+Ruby Rogues Facebook Page (Chuck)
+
+271
+emoj (Coraline)
+Teaching Robots to Feel: Emoji & Deep Learning (Coraline)
+The Lies of Locke Lamora (Sam)
+Gorilla Tape (Sam)
+Portillo's (Chuck)
+iPad Pro (Chuck)
+Apple Smart Keyboard (Chuck)
+Apple Pencil (Chuck)
+GoodNotes (Chuck)
+Podcast Movement (Chuck)
+The Principles of Product Development Flow: Second Generation Lean Product Development by Donald G. Reinertsen (Justin)
+How to Write in Plain English (Justin)
+Avvo (Justin)
+
+270
+The Name of the Wind by Patrick Rothfuss (Sam)
+The Lies of Locke Lamora (Coraline)
+Brandon Sanderson's Alcatraz Versus the Evil Librarians Series (Chuck)
+Bose QuietComfort 3 Acoustic Noise Cancelling Headphones (Chuck)
+Brené Brown: The power of vulnerability (Lauren)
+Brené Brown: Listening to shame (Lauren)
+
+269
+How American Politics Went Insane (Jessica)
+Alex Kitchens’ Minecraft Tweet (Sam)
+The “Is It a DSL or an API?” Ten Question Checklist (Sam)
+Transmit (Chuck)
+Zoom (Chuck)
+Rails Remote Conf (Chuck)
+
+268
+The Walking Dead (Sam)
+The Codeless Code (Coraline)
+Jurgen, A Comedy of Justice (Jessica)
+Feeling sad about tragedy (Jessica)
+Completely Disconnect (Chuck)
+Being Outdoors (Chuck)
+Shooting Firearms (Chuck)
+Productive (Jamis)
+Kerbal Space Program (Jamis)
+
+267
+I17n.rb – Intranumeralization (David)
+Patrick McKenzie: Falsehoods Programmers Believe About Names (David)
+Mogo Portable Active Office Chair (Sam)
+Richard Schneems: Saving Sprockets (Coraline)
+Calvino Noir (Coraline)
+ICU (Cameron)
+CLDR (Cameron)
+twitter-cldr-rb (Cameron)
+Hacknet (Cameron)
+Golden State Warriors (Cameron)
+
+266
+Hover (Kronda)
+Flywheel (Kronda)
+WordPress (Kronda)
+Thrive Themes (Kronda)
+Genesis (Kronda)
+ActiveCampaign (Kronda)
+Lingo (Kronda)
+Tybee Island, Georgia (Jessica)
+Robert Epstein: The empty brain: Your brain does not process information, retrieve knowledge or store memories. In short: your brain is not a computer (Coraline)
+Blindsight by Peter Watts (Sam)
+Aurynn Shaw: Contempt Culture (Sam)
+StudioPress (Chuck)
+DigitalOcean (Chuck)
+Drip (Chuck)
+
+265
+Go-Ped Know Ped Scooter (Sam)
+2015 State of the Software Supply Chain Report (Jessica)
+The Screwtape Letters (Jessica)
+Start with Why: How Great Leaders Inspire Everyone to Take Action by Simon Sinek (Chuck)
+RIF6 Cube 2-inch Mobile Projector (Chuck)
+The Night Circus by Erin Morgenstern (Frank)
+PrAna (Frank)
+Rust (Frank)
+Big Data Analytics with Datalog Queries on Spark (Frank)
+
+264
+Case Studies in Apprenticeship (Coraline)
+Everything's an Argument by Andrea A. Lunsford and John J. Ruszkiewicz (Sam)
+RIF6 Cube 2-inch Mobile Projector (Chuck)
+Nonviolent Communication: A Language of Life by Marshall B. Rosenberg (Nadia)
+Robert Frank on Dinner Table Economics (Nadia)
+
+263
+Halting State by Charles Stross (Sam)
+The Belgariad by David Eddings (Chuck)
+Fully Alive: Discovering What Matters Most by Timothy Shriver (Chuck)
+The 8000th Busy Beaver number eludes ZF set theory: new paper by Adam Yedidia and me (Tom)
+Martin Kleppmann: Staying in Sync: from Transactions to Streams (Tom)
+
+262
+RFC 2119 (Sam)
+James Edward Gray II: Implementing the LHC on a Whiteboard (Coraline)
+Cracking the Coding Interview: 150 Programming Questions and Solutions by Gayle Laakmann McDowell (Coraline)
+Thinking about your health (Chuck)
+FitBit One (Chuck)
+Block & Flow (Ra'Shaun)
+Censible (Ra’Shaun)
+Heroku Pipelines (Noel)
+Dialogue – A proposal by David Bohm, Donald Factor and Peter Garrett (Noel)
+
+261
+Nadia Eghbal: I hate the term “open source” (Coraline)
+tabular (Sam)
+dotfiles/vimrc at master (Sam)
+PlugBug World (Chuck)
+Safemore Smart 8-Outlet with 4-USB Output Surge Protection Power Strip (Chuck)
+moonconf (Kerri)
+Open Source and Feelings (Kerri)
+Sage Yoyo Starter Pack (Kerri)
+
+260
+Society Of Mind By Marvin Minsky (Reuven)
+Peter Hessler's Books (Reuven)
+Regexp Crash Course (Reuven)
+rspec-given (Sam)
+Katrina Owen on Confreaks (Sam)
+github-shoutouts (Coraline)
+Ruby Together (Coraline)
+Ruby Rogues Episode #224: Ruby Together with André Arko (Chuck)
+Ruby Remote Conf (Chuck)
+FitBit One (Chuck)
+
+259
+Jarvis Desk (Sam)
+What Do Women Want At Hackathons? NASA Has A List (Sam)
+Dan North – Embracing uncertainty: why you should and why you won’t (Jessica)
+Common Ground and Coordination in Joint Activity (Jessica)
+Apprenticeship Patterns: Guidance for the Aspiring Software Craftsman (Jay)
+Zach Holman: How to Deploy Software (Jay)
+Patricio Gonzalez Vivo: The Book of Shaders (Jay)
+Black Mamba Hot Sauce by CaJohn's (David)
+
+258
+The CHECKS Pattern Language of Information Integrity (Avdi)
+Delegation (Avdi)
+CaJohns Ignite Hot Sauce (David)
+beach house (Coraline)
+CocoRosie (Coraline)
+The Misters of Circe (Sam)
+DesktopServer (Chuck)
+Advanced Custom Fields (Chuck)
+Convert Post Types (Chuck)
+Gravity Forms (Chuck)
+MemberPress (Chuck)
+SIGNAL Conference (Greg)
+
+257
+git-standup (Coraline)
+Craft Conference (Jessica)
+UtahJS (Chuck)
+Zoom H6 (Chuck)
+Ian Leslie: The Sugar Conspiracy (Coraline)
+The sugar conspiracy (Neil)
+Treasure Islands: Tax Havens and the Men Who Stole the World by Nicholas Shaxson (Neil)
 
 256
 Udi Dahan: The Fallacy Of ReUse (David)
