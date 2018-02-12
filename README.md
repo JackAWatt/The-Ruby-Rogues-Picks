@@ -1,6 +1,40 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
+
+
+295
+Jason: Do What You Love and Other Lies About Success and Happiness and Free Training on Ruby and Rails 
+Jerome: Thank You Economy by Gary Vaynerchuck, Tools of the Titans by Tim Ferriss, and Digital Ocean
+Brian: Driven to Distraction at Work by Edward M. Hallowell, MD and vimwiki
+Charles: Devops Remote Conference 2017 and Shure SM 58 Microphone
+Devon: Honeypot, Freakonomics Podcast, and Crato (Code consistency)
+
+294
+Jerome: Action Cable in Rails 5 by Michael Hartl, SRE Conference in San Francisco
+Charles: Battlestar Galactica, Upcoming My Story Episodes on JavaScript Jabber and Ruby Rogues
+David: Doctor Who, Attend Meet Ups
+
+
+
+293
+Google University by John Washam (Jerome)
+Rogue One: A Star Wars Story (Charles and Nell)
+Trader Joe’s Irish Breakfast Tea (Nell)
+Scrub Daddy Sponge (Nell)
+
 292
+The 7 Habits of Highly Effective People (Jason)
+How To Win Friends and Influence People (Jason)
+Corporate Confidential (Brian)
+Land the Tech Job You Love by Andy Lester (Brian)
+The Way of the Fight by George St. Pierre (Jerome)
+ID.me (Jerome)
+10 Ways to Get Noticed by Potential Employers free email course (Charles)
+Devops Remote Conf (Charles)
+JS Remote Conf (Charles)
+Freelance Remote Conf (Charles)
+Free Code Camp (Charles)
+Flatiron School (Charles)
 
 291
 ThinkGeek (Jerome)
