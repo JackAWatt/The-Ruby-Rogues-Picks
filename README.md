@@ -1,5 +1,109 @@
 # Ruby Rogues Pick Links 
 For each episode of the [Ruby Rogues podcast](https://devchat.tv/ruby-rogues) there are a lot of great picks each guest shares. This is a repository of all the great links shared on the show.
+292
+
+291
+ThinkGeek (Jerome)
+Facebook Lookalike Audiences (Charles)
+Mastermind groups (Charles)
+Think and Grow Rich by Dr. Napoleon Hill (Charles)
+Bark app (Brandon)
+People socks (Brandon)
+The Food Lab by J. Kenji Lopez-Alt (Brandon)
+
+290
+Dinosaur Odyssey by Scott Sampson (Jason)
+Shadows of Forgotten Ancestors by Carl Sagan (Jason)
+Rails Solutions: Ruby on Rails Made Easy by Justin Williams (Jerome)
+Take My Money: Accepting Payments on the Web by Noel Rappin (Brian)
+Deploying with JRuby by Joe Kutner (Brian)
+RR Episode 281 with Noel Rappin
+RR 150 with Joe Kutner
+Echo Dot (Charles)
+The Life-Changing Magic of Tidying Up by Marie Kondo (Brian)
+Getting Things Done by David Allen (Charles)
+
+289
+Effective Ruby: 48 Specific Ways to Write Better Ruby by Peter J. Jones (Jerome)
+The Ace Editor github (Jerome)
+Titan: The Life of John D. Rockefeller, Sr by Ron Chernow (Jason)
+Something Wicked This Way Comes by Ray Bradbury (Jason)
+Evans Mill (Charles)
+Selfie Sticks (Charles)
+Shiren the Wanderer video game (Jay)
+The Humane Interface by Jef Raskin (Jay)
+
+
+288
+Suture Gem (Ben)
+Debride Gem (Ben)
+JRuby Truffle Project by Oracle (Josh)
+ThinkPads (Josh)
+Honeybadger IO (Josh)
+“A Rubyist’s Guide to Big-O Notation” blog post (Josh)
+Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time by Brian Tracey (Brian)
+Codefights (Brian)
+Basics of Mechanical Engineering by Paul D. Ronney (Jason)
+The Demon-haunted World by Carl Sagan (Jason)
+
+287
+Drawing on the Right Side of the Brain by Betty Edwards (Jason)
+Philosophize This! Podcast (Jason)
+Typora (Brian)
+Facer.io (Brian)
+Eventual Millionaire Podcast by Jamie Masters (Charles)
+Toggl time tracking software (Charles)
+Being nice to each other (Charles)
+Ruby Together (Cameron)
+Lumosity (Cameron)
+Seattle Seahawks (Cameron)
+
+286
+Flow: The Psychology of Optimal Experience by Mihaly Csikszentmihalyi (Jason)
+jason@benfranklinlabs.com for working with Jason as a consultant (Jason)
+Dataclysm: Love, Sex, Race, and Identity–What Our Online Lives Tell Us about Our Offline Selves by Christian Rudder (Jerome)
+Remote: Office Not Required by Jason Fried and David Heinemeier Hansson (Jerome)
+MindMup2 (Charles)
+Born to Win seminar by Zig Ziglar on Audible (Charles)
+Rail Roady (Sam)
+The Shadow Out of Time by H.P. Lovecraft (Sam)
+Genestealer Cults by Peter Fehervari (Sam)
+Tyranids (Sam)
+
+
+285
+Toastmasters International (Jason)
+Clean Code: A Handbook of Agile Software Craftsmanship by Robert Martin (Jason)
+Figma (Jerome)
+Ifttt (Jerome)
+How to Build a Billion Dollar App by George Berkowski(Jerome)
+Fabio’s blog (Charles)
+The Twelve Week Year by Brian P. Moran and Michael Lennington (Charles)
+The Mythical Man-Month: Essays on Software Engineering by Frederick Brooks (Fabio)
+Cosmos by Carl Sagan and Cosmos by Neil Degrasse Tyson (Fabio)
+Yaer (Fabio)
+
+284
+The Autobiography of Benjamin Franklin by Benjamin Franklin (Jason)
+The Lost Art of Finding Our Way by John Edward Huth (Jason)
+Hacking: The Art of Exploitation by Jon Erikson (Jerome)
+How to Build a Billion Dollar App by George Berkowski (Jerome)
+Ghost in the Wires by Kevin Mitnick (Charles)
+School breaks (Charles)
+Boy Scouts of America (Charles)
+Friends and Guests (Justin)
+Play Bigger: How Pirates, Dreamers, and Innovators Create and Dominate Markets
+(Justin)
+Mast.ly (Justin)
+The Paleo Blueprint by Mark Sisson (Justin)
+Justin Gordon’s Twitter (Justin)
+Dave Asprey’s podcast, Bulletproof Executive Radio (Justin)
+The Tim Ferriss Show podcast (Justin)
+Dr.Boolean’s Mostly Adequate Guide to Functional Programming (Rob)
+Jafar Husain’s tutorials (Rob)
+Tesseract – Of Matter (Rob)
+
+
 283
 Angular for Rails Developers by Jason Swett (Jerome)
 Vets Who Code (Jason)
