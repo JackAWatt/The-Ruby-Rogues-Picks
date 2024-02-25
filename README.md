@@ -4,61 +4,61 @@
 
 295
 
-Jason: Do What You Love and Other Lies About Success and Happiness and Free Training on Ruby and Rails 
+* Jason: Do What You Love and Other Lies About Success and Happiness and Free Training on Ruby and Rails 
 
-Jerome: Thank You Economy by Gary Vaynerchuck, Tools of the Titans by Tim Ferriss, and Digital Ocean
+* Jerome: Thank You Economy by Gary Vaynerchuck, Tools of the Titans by Tim Ferriss, and Digital Ocean
 
-Brian: Driven to Distraction at Work by Edward M. Hallowell, MD and vimwiki
+* Brian: Driven to Distraction at Work by Edward M. Hallowell, MD and vimwiki
 
-Charles: Devops Remote Conference 2017 and Shure SM 58 Microphone
+* Charles: Devops Remote Conference 2017 and Shure SM 58 Microphone
 
-Devon: Honeypot, Freakonomics Podcast, and Crato (Code consistency)
+* Devon: Honeypot, Freakonomics Podcast, and Crato (Code consistency)
 
 294
 
-Jerome: Action Cable in Rails 5 by Michael Hartl, SRE Conference in San Francisco
+* Jerome: Action Cable in Rails 5 by Michael Hartl, SRE Conference in San Francisco
 
-Charles: Battlestar Galactica, Upcoming My Story Episodes on JavaScript Jabber and Ruby Rogues
+* Charles: Battlestar Galactica, Upcoming My Story Episodes on JavaScript Jabber and Ruby Rogues
 
-David: Doctor Who, Attend Meet Ups
+* David: Doctor Who, Attend Meet Ups
 
 
 
 293
 
-Google University by John Washam (Jerome)
+* Google University by John Washam (Jerome)
 
-Rogue One: A Star Wars Story (Charles and Nell)
+* Rogue One: A Star Wars Story (Charles and Nell)
 
-Trader Joe’s Irish Breakfast Tea (Nell)
+* Trader Joe’s Irish Breakfast Tea (Nell)
 
-Scrub Daddy Sponge (Nell)
+* Scrub Daddy Sponge (Nell)
 
 292
 
-The 7 Habits of Highly Effective People (Jason)
+* The 7 Habits of Highly Effective People (Jason)
 
-How To Win Friends and Influence People (Jason)
+* How To Win Friends and Influence People (Jason)
 
-Corporate Confidential (Brian)
+* Corporate Confidential (Brian)
 
-Land the Tech Job You Love by Andy Lester (Brian)
+* Land the Tech Job You Love by Andy Lester (Brian)
 
-The Way of the Fight by George St. Pierre (Jerome)
+* The Way of the Fight by George St. Pierre (Jerome)
 
-ID.me (Jerome)
+* ID.me (Jerome)
 
-10 Ways to Get Noticed by Potential Employers free email course (Charles)
+* 10 Ways to Get Noticed by Potential Employers free email course (Charles)
 
-Devops Remote Conf (Charles)
+* Devops Remote Conf (Charles)
 
-JS Remote Conf (Charles)
+* JS Remote Conf (Charles)
 
-Freelance Remote Conf (Charles)
+* Freelance Remote Conf (Charles)
 
-Free Code Camp (Charles)
+* Free Code Camp (Charles)
 
-Flatiron School (Charles)
+* Flatiron School (Charles)
 
 291
 
