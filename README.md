@@ -80,45 +80,45 @@ The Food Lab by J. Kenji Lopez-Alt (Brandon)
 
 290
 
-Dinosaur Odyssey by Scott Sampson (Jason)
+* Dinosaur Odyssey by Scott Sampson (Jason)
 
-Shadows of Forgotten Ancestors by Carl Sagan (Jason)
+* Shadows of Forgotten Ancestors by Carl Sagan (Jason)
 
-Rails Solutions: Ruby on Rails Made Easy by Justin Williams (Jerome)
+* Rails Solutions: Ruby on Rails Made Easy by Justin Williams (Jerome)
 
-Take My Money: Accepting Payments on the Web by Noel Rappin (Brian)
+* Take My Money: Accepting Payments on the Web by Noel Rappin (Brian)
 
-Deploying with JRuby by Joe Kutner (Brian)
+* Deploying with JRuby by Joe Kutner (Brian)
 
-RR Episode 281 with Noel Rappin
+* RR Episode 281 with Noel Rappin
 
-RR 150 with Joe Kutner
+* RR 150 with Joe Kutner
 
-Echo Dot (Charles)
+* Echo Dot (Charles)
 
-The Life-Changing Magic of Tidying Up by Marie Kondo (Brian)
+* The Life-Changing Magic of Tidying Up by Marie Kondo (Brian)
 
-Getting Things Done by David Allen (Charles)
+* Getting Things Done by David Allen (Charles)
 
 
 
 289
 
-Effective Ruby: 48 Specific Ways to Write Better Ruby by Peter J. Jones (Jerome)
+* Effective Ruby: 48 Specific Ways to Write Better Ruby by Peter J. Jones (Jerome)
 
-The Ace Editor github (Jerome)
+* The Ace Editor github (Jerome)
 
-Titan: The Life of John D. Rockefeller, Sr by Ron Chernow (Jason)
+* Titan: The Life of John D. Rockefeller, Sr by Ron Chernow (Jason)
 
-Something Wicked This Way Comes by Ray Bradbury (Jason)
+* Something Wicked This Way Comes by Ray Bradbury (Jason)
 
-Evans Mill (Charles)
+* Evans Mill (Charles)
 
-Selfie Sticks (Charles)
+* Selfie Sticks (Charles)
 
-Shiren the Wanderer video game (Jay)
+* Shiren the Wanderer video game (Jay)
 
-The Humane Interface by Jef Raskin (Jay)
+* The Humane Interface by Jef Raskin (Jay)
 
 
 
